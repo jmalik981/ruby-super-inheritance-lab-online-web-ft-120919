@@ -10,4 +10,3 @@ def hello
       super
     end
   end
-end
